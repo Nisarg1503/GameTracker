@@ -40,15 +40,6 @@ namespace GameTracker {
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl project;
         
         /// <summary>
-        /// services control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl services;
-        
-        /// <summary>
         /// contact control.
         /// </summary>
         /// <remarks>
@@ -56,5 +47,14 @@ namespace GameTracker {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl contact;
+        
+        /// <summary>
+        /// services control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl services;
     }
 }

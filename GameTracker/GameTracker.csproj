@@ -72,12 +72,18 @@
   <ItemGroup>
     <Content Include="About.aspx" />
     <Content Include="Assets\Images\Back_Game.jpg" />
+    <Content Include="Assets\Images\login.png" />
+    <Content Include="Assets\Images\register.png" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\App.css" />
     <Content Include="Content\Header.css" />
+    <Content Include="Content\Login.css" />
     <Content Include="Content\PageStyle.css" />
     <Content Include="Content\Style.css" />
     <Content Include="Default.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="Register.aspx" />
+    <Content Include="Content\Register.css" />
     <Content Include="User_Controls\Navbar.ascx" />
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-2.2.3.min.map" />
@@ -139,6 +145,20 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
     </Compile>
     <Compile Include="User_Controls\Navbar.ascx.cs">
       <DependentUpon>Navbar.ascx</DependentUpon>

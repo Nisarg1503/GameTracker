@@ -23,10 +23,9 @@ Description:  This page contains My Navbar with CSS. --%>
             <ul class="nav navbar-nav navbar-right">
                 <li id="home" runat="server"><a class="blog-nav-item" href="Default.aspx"><i class="fa fa-home fa-lg"></i> Home</a></li>
                 <li id="about" runat="server"><a class="blog-nav-item" href="About.aspx"><i class="fa fa-info-circle fa-lg"></i> About</a></li>
-                <li id="project" runat="server"><a class="blog-nav-item" href="Project.aspx"><i class="fa fa-bars fa-lg"></i> Project</a></li>
-                <li id="services" runat="server"><a class="blog-nav-item" href="Services.aspx"><i class="fa fa-cogs fa-lg"></i> Services</a></li>
+                <li id="project" runat="server"><a class="blog-nav-item" href="Games.aspx"><i class="fa fa-bars fa-lg"></i> Games</a></li>
                 <li id="contact" runat="server"><a class="blog-nav-item" href="Contact.aspx"><i class="fa fa-phone fa-lg"></i> Contact Us</a></li>
-
+                <li id="services" runat="server"><a class="blog-nav-item" href="Login.aspx"><i class="fa fa-cogs fa-lg"></i> Login</a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
