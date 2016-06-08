@@ -41,13 +41,11 @@ Description:  This is my Site Master page which contains Navbar and Footer for a
     <script src="Scripts/app.js"></script>
      <ul class="navbar-fixed-bottom">
             <div class="navbar-text pull-left">
-                <p id="p1">Developed by Nisarg Patel</p>
+                <p id="p1">Developed by Nisarg & Jinal</p>
             </div>
             <div class="navbar-text pull-right">
                 <a href="https://github.com/Nisarg1503"><i class="fa fa-github-square fa-2x"></i></a>
-                <a href="https://in.linkedin.com/pub/nisarg-patel/90/a74/a83"><i class="fa fa-linkedin fa-2x"></i></a>
-                <a href="https://twitter.com/nisarg1503"><i class="fa fa-twitter fa-2x"></i></a>
-                <a href="https://www.facebook.com/nisarg1503"><i class="fa fa-facebook-official fa-2x"></i></a>
+                
 
                </div>
         </ul>
