@@ -1,4 +1,5 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="GameTracker.About" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Games.aspx.cs" Inherits="GameTracker.Games" %>
+
 
 <%--
 File   : About.aspx
@@ -14,16 +15,16 @@ Description:  This page contains the information About me. --%>
             <div class="about">
                 <div class="row text-center">
                     <div class="col-lg-10 col-lg-offset-1">
-                        <h2>About Us</h2>
+                        <h2>Games</h2>
                         <hr class="small">
                     </div>
                 </div>
             </div>
         </section>
         <!-- About me Paragraph  -->
-        <div class="row">
-            <p> This will be about us page..!!
+        
+            <p>This page will contain games and information..!
             </p>
-        </div>
+        
     </div>
 </asp:Content>
