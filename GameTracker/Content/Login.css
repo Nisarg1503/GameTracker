@@ -1,4 +1,7 @@
-﻿body{
+﻿/*Login page style
+*/
+
+body{
  background-size: 1370px 800px;
  background-image: url("../Assets/images/login.png");    
 }

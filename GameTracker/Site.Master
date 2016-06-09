@@ -5,7 +5,7 @@
 <%--
 File   : Site.Master
 Author : Nisarg Patel 
-Website: http://portfolio-nisarg.azurewebsites.net/
+Website: http://gametrack.azurewebsites.net
 Description:  This is my Site Master page which contains Navbar and Footer for all pages. --%>
 
 <!DOCTYPE html>

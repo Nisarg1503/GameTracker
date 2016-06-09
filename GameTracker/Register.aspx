@@ -1,4 +1,11 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Register.aspx.cs" Inherits="GameTracker.Register" %>
+
+<%--
+File   : Register.aspx
+Author : Nisarg Patel & Jinal Patel
+Website: http://gametrack.azurewebsites.net
+Description:  This page will allow users to Register by providing some personal information --%>
+
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <link href="Content/Register.css" rel="stylesheet" />
     <main class="container">

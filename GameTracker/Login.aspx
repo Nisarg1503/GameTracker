@@ -1,4 +1,11 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="GameTracker.Login" %>
+
+<%--
+File   : Login.aspx
+Author : Nisarg Patel & Jinal Patel
+Website: http://gametrack.azurewebsites.net
+Description:  This page will allow user to login into site --%>
+
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <link href="Content/Login.css" rel="stylesheet" />
     <main class="container">

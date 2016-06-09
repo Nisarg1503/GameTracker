@@ -2,8 +2,8 @@
 
 <%--
 File   : Default.aspx
-Author : Nisarg Patel 
-Website: http://portfolio-nisarg.azurewebsites.net/
+Author : Nisarg Patel & Jinal Patel
+Website: http://gametrack.azurewebsites.net
 Description:  This page is my Home page/Default page. --%>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">

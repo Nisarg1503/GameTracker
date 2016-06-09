@@ -2,9 +2,9 @@
 
 <%--
 File   : Contact.aspx
-Author : Nisarg Patel 
-Website: http://portfolio-nisarg.azurewebsites.net/
-Description:  This page creates a contact form with some field check and small window with my personal information. --%>
+Author : Nisarg Patel & Jinal Patel
+Website: http://gametrack.azurewebsites.net
+Description:  This page creates a contact form with some field check and small window with our personal information. --%>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <link href="Content/PageStyle.css" rel="stylesheet" />
@@ -25,7 +25,7 @@ Description:  This page creates a contact form with some field check and small w
                     </div>
                     <div class="panel-body">
                         <address>
-                            <strong>Nisarg Patel</strong><br>
+                            <strong>Nisarg Patel & Jinal Patel</strong><br>
                             2 Kozlov st<br>
                             Barrie, ON L4N 5A1<br>
                             <abbr title="Phone">Tel:</abbr>

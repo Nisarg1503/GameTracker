@@ -2,10 +2,10 @@
 
 
 <%--
-File   : About.aspx
-Author : Nisarg Patel 
-Website: http://portfolio-nisarg.azurewebsites.net/
-Description:  This page contains the information About me. --%>
+File   : Games.aspx
+Author : Nisarg Patel & Jinal Patel
+Website: http://gametrack.azurewebsites.net
+Description:  This page will have some game list and information about games --%>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
        <link href="Content/PageStyle.css" rel="stylesheet" />
